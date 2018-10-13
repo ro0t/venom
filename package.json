@@ -7,8 +7,8 @@
   "author": "Adam N. Viðarsson",
   "license": "MIT",
   "scripts": {
-      "run": "parcel index.html",
-      "build": "parcel build game.ts"
+    "run": "parcel index.html",
+    "build": "parcel build game.ts"
   },
   "devDependencies": {
     "typescript": "^3.1.3"
