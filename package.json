@@ -1,0 +1,16 @@
+{
+  "name": "venom",
+  "version": "0.01",
+  "description": "A young little parasite trying to take over Earth",
+  "main": "index.js",
+  "repository": "https://github.com/ro0t/venom",
+  "author": "Adam N. Viðarsson",
+  "license": "MIT",
+  "scripts": {
+      "run": "parcel index.html",
+      "build": "parcel build game.ts"
+  },
+  "devDependencies": {
+    "typescript": "^3.1.3"
+  }
+}
